@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d159f811-acbe-40eb-a87c-f75e273066e6" name="Default Changelist" comment="" />
+    <list default="true" id="d159f811-acbe-40eb-a87c-f75e273066e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ali-pay/src/main/java/com/lizhe/DDDDDDDDDD.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607840430825</updated>
       <workItem from="1607840434079" duration="3232000" />
-      <workItem from="1607843700078" duration="1766000" />
+      <workItem from="1607843700078" duration="2136000" />
     </task>
     <task id="LOCAL-00001" summary="首次提交">
       <created>1607844897565</created>
